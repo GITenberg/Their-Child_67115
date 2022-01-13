@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/67115">
+    <pgterms:marc905>20210409114328herrick</pgterms:marc905>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N59c909246b9c48bf919bf62f8d86bdc7">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <marcrel:ill>
+      <pgterms:agent rdf:about="2009/agents/47653">
+        <pgterms:name>Stone, Seymour M.</pgterms:name>
+      </pgterms:agent>
+    </marcrel:ill>
+    <dcterms:title>Their Child</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67115/67115-h/67115-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-06T21:26:22</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126924</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67115"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N649e9a204f27465d99a2bef45a5d0cd2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67115/67115-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67115"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nef07b95cf2c04eccbf4dde70bdc21ed1">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39554</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nda69602d68df4bc790a61cd77c801817">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-06T21:26:49</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc906>1903</pgterms:marc906>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/554">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1674</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1591</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Robert_Herrick_(poet)"/>
+        <pgterms:name>Herrick, Robert</pgterms:name>
+        <pgterms:alias>Herrick, R. (Robert)</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:marc904>https://archive.org/details/theirchild00herriala/mode/2up</pgterms:marc904>
+    <pgterms:marc508>D A Alexander, David E. Brown, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by University of California libraries)</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67115/67115-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-06T21:26:22</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5d45588ec76f4d8fa0707477473c7fd8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67115"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101231</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67115/67115-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N64b8f917417b42759c7e97042af5a2ec">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N08f0b5552a1d4b179fcf8c4829181bf7">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-06T21:26:49</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67115"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801997</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc260>United States :MacMillan Company,1903.</pgterms:marc260>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-06</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:license rdf:resource="license"/>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Robert_Herrick_(poet)">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

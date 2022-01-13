@@ -1,0 +1,36 @@
+_repo: Their-Child_67115
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, Seymour M.
+    gutenberg_agent_id: '47653'
+    url: http://www.gutenberg.org/2009/agents/47653
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, R. (Robert)
+    birthdate: 1591
+    deathdate: 1674
+    gutenberg_agent_id: '554'
+    url: http://www.gutenberg.org/2009/agents/554
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Herrick_(poet)
+description: ''
+gutenberg_issued: '2022-01-06'
+identifiers:
+  gutenberg: '67115'
+language: en
+pgterms:marc904: https://archive.org/details/theirchild00herriala/mode/2up
+pgterms:marc905: 20210409114328herrick
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United States :MacMillan Company,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Their Child
+url: http://www.gutenberg.org/ebooks/67115
