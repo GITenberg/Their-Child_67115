@@ -5,6 +5,9 @@ contributor:
     agent_name: Stone, Seymour M.
     gutenberg_agent_id: '47653'
     url: http://www.gutenberg.org/2009/agents/47653
+covers:
+- cover_type: archival
+  image_path: 67115-h/images/cover.jpg
 creator:
   author:
     agent_name: Herrick, Robert
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/554
     wikipedia: https://en.wikipedia.org/wiki/Robert_Herrick_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67115#Their-Child
 gutenberg_issued: '2022-01-06'
 identifiers:
   gutenberg: '67115'
